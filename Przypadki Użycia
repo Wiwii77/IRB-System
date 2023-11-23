@@ -1,0 +1,16 @@
+UC1: Utwórz raport frekwencji. 
+UC2: Wyślij sygnał alarmowy dotyczący zbyt niskiego stanu osobowego w pododdziale. 
+UC3: Wyślij e-maila do żołnierza o zmianę obecności. 
+UC4: Zmień stan obecności żołnierza w pracy. 
+UC5: Monitoruj stan ilościowy broni 
+UC6: Powiadamiaj o awarii 
+UC7: Dodaj brakujący sort mundurowy 
+UC8: Wyślij zgłoszenie do mundurówki 
+UC9: Rejestruj nowe akcje bojowe oraz awanse 
+UC10: Dodaj nowego żołnierza do systemu 
+UC11: Planuj instruktaż  
+UC12: Sprawdź wyposażenie  
+UC13: Wybierz jednostkę spośród dostępnych w systemie  
+UC14: Wyślij powiadomienia jednostkom o przydzielonych zadaniach i misjach  
+UC15: Przeglądaj raport dotyczący awarii sprzętu 
+UC16: Monitoruj postępy misji
