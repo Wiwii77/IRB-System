@@ -1,0 +1,16 @@
+1. Jako kierownik systemu, chciałbym mieć możliwość używania platformy internetowej do sprawdzania stanu wyposażenia mundurowego przed rozpoczęciem treningu bojowego
+2. Jako dowódca, chcę mieć możliwość planowania instruktarzy w systemie, aby wszyscy żołnierze byli na bieżąco z terminami i wymaganym wyposażeniem
+3. Jako żołnierz, chcę mieć możliwość monitorowania postępów w osiągnięciu celów misji oraz harmonogramu działań
+4. Jako dowódca, chcę mieć możliwość dostępu do raportów na temat awarii sprzętu lub problemów z logistyką, aby skutecznie zarządzać zasobami
+5. Jako dowódca pododdziału, chcę mieć możliwość zaplanowania szkolenia i ćwiczeń wojskowych, mając wiedzę o dostępności żołnierzy, aby w określonej godzinie precyzyjnie wyznaczać żołnierzy do organizacji
+6. Jako służba dyżurna, chcę wysyłać powiadomienia e-mailowe do pracowników, którzy opuścili miejsce pracy, ale nie zgłosili swojej nieobecności w systemie, aby stan obecności był zgodny
+7. Jako żołnierz, chcę zmieniać stan swojej obecności w pracy, aby zmienić stan w imiennym rozliczeniu bojowym
+8. Jako dowódca, chcę być powiadamiany o wszelkich awariach lub problemach z bronią, aby zapewnić jej szybką naprawę i utrzymanie w gotowości bojowe
+9. Jako dowódca chcę znać aktualny stan ilościowy broni
+10. Jako użytkownik chcę, aby możliwe było ręczne dodawanie danych osobowych żołnierzy, tak abyśmy mieli pełną kontrolę nad informacjami w systemie Imiennego rozliczenia bojowego w wojsku
+11. Jako użytkownik chcę, aby istniała opcja ręcznego wprowadzania danych dotyczących aktywności bojowej i awansów żołnierzy, abyśmy mogli dokładnie śledzić i zarządzać ich postępem w służbie wojskowej
+12. Jako dowódca, chcę móc zgłaszać braki mundurowe żołnierzy do mundurówki
+12. Jako dowódca, chcę mieć dostęp do systemu online, aby sprawdzić, czy żołnierze posiadają wymagane mundury przed apelem mundurowym
+13. Jako Dowódca pododdziału, chcę mieć możliwość łatwego tworzenia codziennych raportów frekwencji, aby zapewnić dokładność i aktualność informacji dotyczących obecności żołnierzy w systemie zarządzania pododdziałem
+14. Jako dowódca pododdziału, chcę otrzymywać powiadomienia, gdy frekwencja spada poniżej pewnego progu,aby szybko zareagować na ewentualne kryzysy
+15. Jako dowódca pododdziału, chcę mieć możliwość przypisywania zadań i misji różnym jednostkom i zespołom w oparciu o dostępność żołnierzy w konkretnej godzinie, aby efektywnie zarządzać zasobami i zadaniowym przydziałem w dynamicznym środowisku operacyjnym
